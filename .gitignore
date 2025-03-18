@@ -1,0 +1,10 @@
+# Ignore model files (download manually)
+backend/models/yolov3.weights
+
+# Ignore uploaded & processed images
+backend/static/uploads/
+backend/static/processed/
+
+# Ignore system files
+__pycache__/
+.DS_Store
